@@ -1,2 +1,4 @@
-# swim school
-pookie bear
+# Welcome to San Diego Swim School!
+## Course Offerings:
+## Thingy
+
